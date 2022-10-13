@@ -15,4 +15,4 @@ steps:
     name: Azure-Images
     trigger:
       branch:
-        - default-QTI
+        - main
